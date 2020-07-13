@@ -1,0 +1,15 @@
+{
+"products":
+[
+{"id":1,"full_name":"Crane, wattled","category":"Yellow"},
+{"id":2,"full_name":"Sloth, pale-throated three-toed","category":"Teal"},
+{"id":3,"full_name":"Eurasian beaver","category":"Aquamarine"},
+{"id":4,"full_name":"Pale-throated three-toed sloth","category":"Blue"},
+{"id":5,"full_name":"Australian sea lion","category":"Aquamarine"},
+{"id":6,"full_name":"Oriental white-backed vulture","category":"Mauv"},
+{"id":7,"full_name":"Coot, red-knobbed","category":"Khaki"},
+{"id":8,"full_name":"Brown antechinus","category":"Green"},
+{"id":9,"full_name":"Hartebeest, red","category":"Goldenrod"},
+{"id":10,"full_name":"Killer whale","category":"Indigo"}
+]
+}
